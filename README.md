@@ -19,3 +19,7 @@ def find_second_highest(nums):
 
 input_list = [1, 4, 7, 8, 4, 8, 1, 4, 9]
 print(find_second_highest(input_list))  
+
+//Output of this code is 8
+
+
